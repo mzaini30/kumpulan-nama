@@ -11,7 +11,7 @@
     }
   }
   generateListNama();
-  setInterval(generateListNama, 5000);
+  setInterval(generateListNama, 10000);
 </script>
 
 <svelte:head>
